@@ -1,0 +1,13 @@
+.loading-spinner {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.periodic-element-data {
+  padding: 50px;
+  .periodic-element-title {
+    margin: 0 0 15px;
+    line-height: 1;
+  }
+}
